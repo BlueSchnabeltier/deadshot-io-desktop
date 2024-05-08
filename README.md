@@ -1,5 +1,5 @@
 # DEADSHOT.io Desktop
-These are unofficial Electron builds for the game DEADSHOT.io, with an integrated adblocker script, prevention of it being modified with hotkeys, etc. You can download them in the releases or build it on your own.
+These are unofficial Electron builds for the game DEADSHOT.io, with an integrated adblocker script, prevention of it being closed or whatever with hotkeys, etc. You can download them in the releases or build it on your own.
 
 ## How to build
 1. Download the code
