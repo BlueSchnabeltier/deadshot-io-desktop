@@ -20,3 +20,4 @@ nativefier "https://deadshot.io" \
 --enable-es3-apis \
 --ignore-gpu-blacklist
 ```
+6. (Optional) Open with Resource Hacker and replace the icon of the .exe
