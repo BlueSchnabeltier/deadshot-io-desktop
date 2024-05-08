@@ -20,4 +20,8 @@ nativefier "https://deadshot.io" \
 --enable-es3-apis \
 --ignore-gpu-blacklist
 ```
+or as a oneliner
+```
+nativefier "https://deadshot.io" --icon "icon.ico" --name "DEADSHOT.io" --inject "inject.js" --portable --user-agent "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:70.0) Gecko/20100101 Firefox/70.0" --internal-urls ".*accounts.google.com.*|remotedesktop.google.com/access/" --enable-es3-apis --ignore-gpu-blacklist
+```
 6. (Optional) Open with Resource Hacker and replace the icon of the .exe
